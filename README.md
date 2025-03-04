@@ -9,5 +9,5 @@
 - Public Leaderboard: 1위
 - Private Leaderboard: 1위
 
-## 내용
+## 개요
 본 프로젝트는 AI 및 빅데이터 분석 학회 D&A의 ML Session에서 수행한 심장병 여부를 예측하는 Competition입니다.
